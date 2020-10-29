@@ -1,6 +1,6 @@
 {
   "name": "serverless-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Boilerplate for a Node Typescript serverless project",
   "main": "handler.js",
   "scripts": {
